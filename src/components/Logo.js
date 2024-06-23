@@ -8,7 +8,7 @@ const Logo = () => {
     text-lg text-cyan flex items-center'
     >
         <img src={logoSvg} alt="CryptoBucks" />
-        <span>CryptoTracker</span>
+        <span>Crypto~Dekho</span>
     </Link>
   )
 }
